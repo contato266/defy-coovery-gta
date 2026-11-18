@@ -415,3 +415,9 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+# Android signing / local builds
+*.keystore
+*.apk
+*.apk.idsig
+build/
